@@ -1,0 +1,33 @@
+*{
+    color: black;
+    background-color: blanchedalmond;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    color: cornflowerblue;
+    text-align: center;
+}
+
+p {
+    color:chocolate;
+}
+
+.link{
+    color: blueviolet;
+}
+
+.pizza{
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: cadetblue;
+    color: azure;
+}
+
+#schnitzel{
+    font-size: 34px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: azure;
+}
+
+
+
